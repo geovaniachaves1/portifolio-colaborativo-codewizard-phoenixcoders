@@ -11,6 +11,10 @@ export default {
       'light-text-color-primary':'#f2f0ff',
       'light-text-color-secondary':'#b5b3bc'
     },
+    fontFamily:{
+      'custom-inconsolata':'Inconsolata',
+      'custom-zenDots':'Zen Dots'
+    },
     extend: {},
   },
   plugins: [],
