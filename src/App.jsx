@@ -8,7 +8,7 @@ function App() {
       {/* todo: hero Component */}
       {/* todo: About Component */}
       {/* todo: Languagues and tec Component */}
-      {/* <OurTeam/> */}
+       <OurTeam/> 
       {/* todo: About Component */}
       {/* todo: Comment Component */}
       {/* todo: Footer Component */}
