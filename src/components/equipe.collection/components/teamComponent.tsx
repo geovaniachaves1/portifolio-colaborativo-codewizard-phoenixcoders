@@ -16,7 +16,7 @@ export const Team = ({ children, className }: TeamGenericProps) => {
 export const TeamName = ({ children, className }: TeamGenericProps) => {
     return (
         <div className={cn('', className)}>
-            <span className="text-emerald-primary text-2xl tracking-widest font-bold ">
+            <span className="text-black dark:text-emerald-primary text-2xl tracking-widest font-bold ">
                 {children}
             </span>
         </div>
@@ -71,7 +71,7 @@ interface TeamSocialIcon extends TeamGenericProps {
 export const TeamPersonalSocialIcon = ({ className, children, href }: TeamSocialIcon) => {
     return (
 
-        <a className={cn('size-12 rounded-full bg-lime-primary text-black flex justify-center items-center hover:opacity-85 ', className)} href={href}>
+        <a className={cn('size-12 rounded-full bg-dark-color-secondary text-white dark:bg-lime-primary dark:text-black flex justify-center items-center hover:opacity-85 ', className)} href={href}>
             {children}
         </a>
 
@@ -112,9 +112,9 @@ interface TeamProjectContentItem {
 }
 export const TeamProjectContentItem = ({ src, className, alt }: TeamProjectContentItem) => {
     return (
-        <div className="" >
+        <a href="" target="_blank" className="" >
             <img
-                className={cn("rounded-md h-full ", className)}
+                className={cn("rounded-md h-full hover:scale-105 shadow-dark-color-primary", className)}
                 src={
                     src?
                         src
@@ -123,6 +123,6 @@ export const TeamProjectContentItem = ({ src, className, alt }: TeamProjectConte
                 }
                 alt={alt}
             />
-        </div>
+        </a>
     )
 }
