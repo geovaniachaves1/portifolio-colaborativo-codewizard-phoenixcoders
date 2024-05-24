@@ -9,7 +9,33 @@
             "linkedinUrl": "https://www.linkedin.com/in/bruno-sampayo-mello/",
             "instagramUrl": "https://www.instagram.com/bruno_sampayo/",
             "facebookUrl": "https://www.facebook.com/bruno.mello.900/"
-        }
+        },
+        "projects": [
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/f396/d2e2/a73fd9a89e3958c883862a621dfad104?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MgWa0om0nl2Ap7AQuzDzINQZmUr0ssjTmkE-NUK5bylXK8TEoGgsuBD3GRoFRmMacS~9FVqlMwpQiNyxfr3cpuN246yHtfvq449Idqsp9qPJhtPGAz03xyZyhTGfD4sK3E5iXVuzIOdGc-PionQvczt~qy6opm1ihRo7nIf~Ec1pNSUBHSvGlVdhHw~hfTqh73dx9Wzvjip2~i0b6iCf6Q74cDMWquQKqFDITnix8~1X~RnZm6IQMg6PnL1n0TDikz~6XYSezRTMA8IX~bCU9VPr8vHYrhFzOm2wvzhSh6ZVGv4Tb7I0ky5cCHyxwl86B0dM7lBJk-VbC0JGzYbAkg__",
+                "alt": "Project 1 description"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/a790/c723/3be06303006a8fbde2ea2e7666d34217?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fr4bH6CugCTBiefnKGGig33kT3rJIm6byLRJpmLC5uOAcQZrWzP63ZxUJEVSqp9GoJ4ALJ-J1ixCgGJ0fJGynx9OMbT0NgZnzSsFhmI1Nt5EcCkdr3km1GaHmH996iS4fvklpmgSAsTSaKD3~7dcERoWQEk24RLfi5jn5Br1ej4gZL3DvzC3d559wD0lmfxpGFe92kXErBfdKy2YdfTZsUAEpdy41yzGfN3o-630COtdlFYP7fbOZvyntidD85niVOcu0lIgSoJjsTFeZc2jZmrkUi3PIwBb3oInOjrFWrY3NSZYUVcAOyeX7b-wxeOmM-KkWqmJZtNa3rKHKLf1cA__",
+                "alt": "Project 2 description"
+            },
+            {
+                "url": "https://www.figma.com/file/ugFcPj2dwNNIW0qhVMl5Y4/image/e571c7aacb93fc03d3a417163fede0ac4d5ed698",
+                "alt": "Project 3 description"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/f396/d2e2/a73fd9a89e3958c883862a621dfad104?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MgWa0om0nl2Ap7AQuzDzINQZmUr0ssjTmkE-NUK5bylXK8TEoGgsuBD3GRoFRmMacS~9FVqlMwpQiNyxfr3cpuN246yHtfvq449Idqsp9qPJhtPGAz03xyZyhTGfD4sK3E5iXVuzIOdGc-PionQvczt~qy6opm1ihRo7nIf~Ec1pNSUBHSvGlVdhHw~hfTqh73dx9Wzvjip2~i0b6iCf6Q74cDMWquQKqFDITnix8~1X~RnZm6IQMg6PnL1n0TDikz~6XYSezRTMA8IX~bCU9VPr8vHYrhFzOm2wvzhSh6ZVGv4Tb7I0ky5cCHyxwl86B0dM7lBJk-VbC0JGzYbAkg__",
+                "alt": "Project 4 description"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/a790/c723/3be06303006a8fbde2ea2e7666d34217?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fr4bH6CugCTBiefnKGGig33kT3rJIm6byLRJpmLC5uOAcQZrWzP63ZxUJEVSqp9GoJ4ALJ-J1ixCgGJ0fJGynx9OMbT0NgZnzSsFhmI1Nt5EcCkdr3km1GaHmH996iS4fvklpmgSAsTSaKD3~7dcERoWQEk24RLfi5jn5Br1ej4gZL3DvzC3d559wD0lmfxpGFe92kXErBfdKy2YdfTZsUAEpdy41yzGfN3o-630COtdlFYP7fbOZvyntidD85niVOcu0lIgSoJjsTFeZc2jZmrkUi3PIwBb3oInOjrFWrY3NSZYUVcAOyeX7b-wxeOmM-KkWqmJZtNa3rKHKLf1cA__",
+                "alt": "Project 5 description"
+            },
+            {
+                "url": "https://www.figma.com/file/ugFcPj2dwNNIW0qhVMl5Y4/image/e571c7aacb93fc03d3a417163fede0ac4d5ed698",
+                "alt": "Project 6 description"
+            }
+        ]
     },
     {
         "name": "Bruno Sampayo",
@@ -21,7 +47,33 @@
             "linkedinUrl": "https://www.linkedin.com/in/bruno-sampayo-mello/",
             "instagramUrl": "https://www.instagram.com/bruno_sampayo/",
             "facebookUrl": "https://www.facebook.com/bruno.mello.900/"
-        }
+        },
+        "projects": [
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/f396/d2e2/a73fd9a89e3958c883862a621dfad104?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MgWa0om0nl2Ap7AQuzDzINQZmUr0ssjTmkE-NUK5bylXK8TEoGgsuBD3GRoFRmMacS~9FVqlMwpQiNyxfr3cpuN246yHtfvq449Idqsp9qPJhtPGAz03xyZyhTGfD4sK3E5iXVuzIOdGc-PionQvczt~qy6opm1ihRo7nIf~Ec1pNSUBHSvGlVdhHw~hfTqh73dx9Wzvjip2~i0b6iCf6Q74cDMWquQKqFDITnix8~1X~RnZm6IQMg6PnL1n0TDikz~6XYSezRTMA8IX~bCU9VPr8vHYrhFzOm2wvzhSh6ZVGv4Tb7I0ky5cCHyxwl86B0dM7lBJk-VbC0JGzYbAkg__",
+                "alt": "Project 1 description"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/a790/c723/3be06303006a8fbde2ea2e7666d34217?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fr4bH6CugCTBiefnKGGig33kT3rJIm6byLRJpmLC5uOAcQZrWzP63ZxUJEVSqp9GoJ4ALJ-J1ixCgGJ0fJGynx9OMbT0NgZnzSsFhmI1Nt5EcCkdr3km1GaHmH996iS4fvklpmgSAsTSaKD3~7dcERoWQEk24RLfi5jn5Br1ej4gZL3DvzC3d559wD0lmfxpGFe92kXErBfdKy2YdfTZsUAEpdy41yzGfN3o-630COtdlFYP7fbOZvyntidD85niVOcu0lIgSoJjsTFeZc2jZmrkUi3PIwBb3oInOjrFWrY3NSZYUVcAOyeX7b-wxeOmM-KkWqmJZtNa3rKHKLf1cA__",
+                "alt": "Project 2 description"
+            },
+            {
+                "url": "https://www.figma.com/file/ugFcPj2dwNNIW0qhVMl5Y4/image/e571c7aacb93fc03d3a417163fede0ac4d5ed698",
+                "alt": "Project 3 description"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/f396/d2e2/a73fd9a89e3958c883862a621dfad104?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MgWa0om0nl2Ap7AQuzDzINQZmUr0ssjTmkE-NUK5bylXK8TEoGgsuBD3GRoFRmMacS~9FVqlMwpQiNyxfr3cpuN246yHtfvq449Idqsp9qPJhtPGAz03xyZyhTGfD4sK3E5iXVuzIOdGc-PionQvczt~qy6opm1ihRo7nIf~Ec1pNSUBHSvGlVdhHw~hfTqh73dx9Wzvjip2~i0b6iCf6Q74cDMWquQKqFDITnix8~1X~RnZm6IQMg6PnL1n0TDikz~6XYSezRTMA8IX~bCU9VPr8vHYrhFzOm2wvzhSh6ZVGv4Tb7I0ky5cCHyxwl86B0dM7lBJk-VbC0JGzYbAkg__",
+                "alt": "Project 4 description"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/a790/c723/3be06303006a8fbde2ea2e7666d34217?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fr4bH6CugCTBiefnKGGig33kT3rJIm6byLRJpmLC5uOAcQZrWzP63ZxUJEVSqp9GoJ4ALJ-J1ixCgGJ0fJGynx9OMbT0NgZnzSsFhmI1Nt5EcCkdr3km1GaHmH996iS4fvklpmgSAsTSaKD3~7dcERoWQEk24RLfi5jn5Br1ej4gZL3DvzC3d559wD0lmfxpGFe92kXErBfdKy2YdfTZsUAEpdy41yzGfN3o-630COtdlFYP7fbOZvyntidD85niVOcu0lIgSoJjsTFeZc2jZmrkUi3PIwBb3oInOjrFWrY3NSZYUVcAOyeX7b-wxeOmM-KkWqmJZtNa3rKHKLf1cA__",
+                "alt": "Project 5 description"
+            },
+            {
+                "url": "https://www.figma.com/file/ugFcPj2dwNNIW0qhVMl5Y4/image/e571c7aacb93fc03d3a417163fede0ac4d5ed698",
+                "alt": "Project 6 description"
+            }
+        ]
     },
     {
         "name": "Bruno Sampayo",
@@ -33,7 +85,33 @@
             "linkedinUrl": "https://www.linkedin.com/in/bruno-sampayo-mello/",
             "instagramUrl": "https://www.instagram.com/bruno_sampayo/",
             "facebookUrl": "https://www.facebook.com/bruno.mello.900/"
-        }
+        },
+        "projects": [
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/f396/d2e2/a73fd9a89e3958c883862a621dfad104?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MgWa0om0nl2Ap7AQuzDzINQZmUr0ssjTmkE-NUK5bylXK8TEoGgsuBD3GRoFRmMacS~9FVqlMwpQiNyxfr3cpuN246yHtfvq449Idqsp9qPJhtPGAz03xyZyhTGfD4sK3E5iXVuzIOdGc-PionQvczt~qy6opm1ihRo7nIf~Ec1pNSUBHSvGlVdhHw~hfTqh73dx9Wzvjip2~i0b6iCf6Q74cDMWquQKqFDITnix8~1X~RnZm6IQMg6PnL1n0TDikz~6XYSezRTMA8IX~bCU9VPr8vHYrhFzOm2wvzhSh6ZVGv4Tb7I0ky5cCHyxwl86B0dM7lBJk-VbC0JGzYbAkg__",
+                "alt": "Project 1 description"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/a790/c723/3be06303006a8fbde2ea2e7666d34217?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fr4bH6CugCTBiefnKGGig33kT3rJIm6byLRJpmLC5uOAcQZrWzP63ZxUJEVSqp9GoJ4ALJ-J1ixCgGJ0fJGynx9OMbT0NgZnzSsFhmI1Nt5EcCkdr3km1GaHmH996iS4fvklpmgSAsTSaKD3~7dcERoWQEk24RLfi5jn5Br1ej4gZL3DvzC3d559wD0lmfxpGFe92kXErBfdKy2YdfTZsUAEpdy41yzGfN3o-630COtdlFYP7fbOZvyntidD85niVOcu0lIgSoJjsTFeZc2jZmrkUi3PIwBb3oInOjrFWrY3NSZYUVcAOyeX7b-wxeOmM-KkWqmJZtNa3rKHKLf1cA__",
+                "alt": "Project 2 description"
+            },
+            {
+                "url": "https://www.figma.com/file/ugFcPj2dwNNIW0qhVMl5Y4/image/e571c7aacb93fc03d3a417163fede0ac4d5ed698",
+                "alt": "Project 3 description"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/f396/d2e2/a73fd9a89e3958c883862a621dfad104?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MgWa0om0nl2Ap7AQuzDzINQZmUr0ssjTmkE-NUK5bylXK8TEoGgsuBD3GRoFRmMacS~9FVqlMwpQiNyxfr3cpuN246yHtfvq449Idqsp9qPJhtPGAz03xyZyhTGfD4sK3E5iXVuzIOdGc-PionQvczt~qy6opm1ihRo7nIf~Ec1pNSUBHSvGlVdhHw~hfTqh73dx9Wzvjip2~i0b6iCf6Q74cDMWquQKqFDITnix8~1X~RnZm6IQMg6PnL1n0TDikz~6XYSezRTMA8IX~bCU9VPr8vHYrhFzOm2wvzhSh6ZVGv4Tb7I0ky5cCHyxwl86B0dM7lBJk-VbC0JGzYbAkg__",
+                "alt": "Project 4 description"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/a790/c723/3be06303006a8fbde2ea2e7666d34217?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fr4bH6CugCTBiefnKGGig33kT3rJIm6byLRJpmLC5uOAcQZrWzP63ZxUJEVSqp9GoJ4ALJ-J1ixCgGJ0fJGynx9OMbT0NgZnzSsFhmI1Nt5EcCkdr3km1GaHmH996iS4fvklpmgSAsTSaKD3~7dcERoWQEk24RLfi5jn5Br1ej4gZL3DvzC3d559wD0lmfxpGFe92kXErBfdKy2YdfTZsUAEpdy41yzGfN3o-630COtdlFYP7fbOZvyntidD85niVOcu0lIgSoJjsTFeZc2jZmrkUi3PIwBb3oInOjrFWrY3NSZYUVcAOyeX7b-wxeOmM-KkWqmJZtNa3rKHKLf1cA__",
+                "alt": "Project 5 description"
+            },
+            {
+                "url": "https://www.figma.com/file/ugFcPj2dwNNIW0qhVMl5Y4/image/e571c7aacb93fc03d3a417163fede0ac4d5ed698",
+                "alt": "Project 6 description"
+            }
+        ]
     },
     {
         "name": "Bruno Sampayo",
@@ -45,7 +123,33 @@
             "linkedinUrl": "https://www.linkedin.com/in/bruno-sampayo-mello/",
             "instagramUrl": "https://www.instagram.com/bruno_sampayo/",
             "facebookUrl": "https://www.facebook.com/bruno.mello.900/"
-        }
+        },
+        "projects": [
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/f396/d2e2/a73fd9a89e3958c883862a621dfad104?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MgWa0om0nl2Ap7AQuzDzINQZmUr0ssjTmkE-NUK5bylXK8TEoGgsuBD3GRoFRmMacS~9FVqlMwpQiNyxfr3cpuN246yHtfvq449Idqsp9qPJhtPGAz03xyZyhTGfD4sK3E5iXVuzIOdGc-PionQvczt~qy6opm1ihRo7nIf~Ec1pNSUBHSvGlVdhHw~hfTqh73dx9Wzvjip2~i0b6iCf6Q74cDMWquQKqFDITnix8~1X~RnZm6IQMg6PnL1n0TDikz~6XYSezRTMA8IX~bCU9VPr8vHYrhFzOm2wvzhSh6ZVGv4Tb7I0ky5cCHyxwl86B0dM7lBJk-VbC0JGzYbAkg__",
+                "alt": "Project 1 description"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/a790/c723/3be06303006a8fbde2ea2e7666d34217?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fr4bH6CugCTBiefnKGGig33kT3rJIm6byLRJpmLC5uOAcQZrWzP63ZxUJEVSqp9GoJ4ALJ-J1ixCgGJ0fJGynx9OMbT0NgZnzSsFhmI1Nt5EcCkdr3km1GaHmH996iS4fvklpmgSAsTSaKD3~7dcERoWQEk24RLfi5jn5Br1ej4gZL3DvzC3d559wD0lmfxpGFe92kXErBfdKy2YdfTZsUAEpdy41yzGfN3o-630COtdlFYP7fbOZvyntidD85niVOcu0lIgSoJjsTFeZc2jZmrkUi3PIwBb3oInOjrFWrY3NSZYUVcAOyeX7b-wxeOmM-KkWqmJZtNa3rKHKLf1cA__",
+                "alt": "Project 2 description"
+            },
+            {
+                "url": "https://www.figma.com/file/ugFcPj2dwNNIW0qhVMl5Y4/image/e571c7aacb93fc03d3a417163fede0ac4d5ed698",
+                "alt": "Project 3 description"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/f396/d2e2/a73fd9a89e3958c883862a621dfad104?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MgWa0om0nl2Ap7AQuzDzINQZmUr0ssjTmkE-NUK5bylXK8TEoGgsuBD3GRoFRmMacS~9FVqlMwpQiNyxfr3cpuN246yHtfvq449Idqsp9qPJhtPGAz03xyZyhTGfD4sK3E5iXVuzIOdGc-PionQvczt~qy6opm1ihRo7nIf~Ec1pNSUBHSvGlVdhHw~hfTqh73dx9Wzvjip2~i0b6iCf6Q74cDMWquQKqFDITnix8~1X~RnZm6IQMg6PnL1n0TDikz~6XYSezRTMA8IX~bCU9VPr8vHYrhFzOm2wvzhSh6ZVGv4Tb7I0ky5cCHyxwl86B0dM7lBJk-VbC0JGzYbAkg__",
+                "alt": "Project 4 description"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/a790/c723/3be06303006a8fbde2ea2e7666d34217?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fr4bH6CugCTBiefnKGGig33kT3rJIm6byLRJpmLC5uOAcQZrWzP63ZxUJEVSqp9GoJ4ALJ-J1ixCgGJ0fJGynx9OMbT0NgZnzSsFhmI1Nt5EcCkdr3km1GaHmH996iS4fvklpmgSAsTSaKD3~7dcERoWQEk24RLfi5jn5Br1ej4gZL3DvzC3d559wD0lmfxpGFe92kXErBfdKy2YdfTZsUAEpdy41yzGfN3o-630COtdlFYP7fbOZvyntidD85niVOcu0lIgSoJjsTFeZc2jZmrkUi3PIwBb3oInOjrFWrY3NSZYUVcAOyeX7b-wxeOmM-KkWqmJZtNa3rKHKLf1cA__",
+                "alt": "Project 5 description"
+            },
+            {
+                "url": "https://www.figma.com/file/ugFcPj2dwNNIW0qhVMl5Y4/image/e571c7aacb93fc03d3a417163fede0ac4d5ed698",
+                "alt": "Project 6 description"
+            }
+        ]
     },
     {
         "name": "Bruno Sampayo",
@@ -57,7 +161,33 @@
             "linkedinUrl": "https://www.linkedin.com/in/bruno-sampayo-mello/",
             "instagramUrl": "https://www.instagram.com/bruno_sampayo/",
             "facebookUrl": "https://www.facebook.com/bruno.mello.900/"
-        }
+        },
+        "projects": [
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/f396/d2e2/a73fd9a89e3958c883862a621dfad104?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MgWa0om0nl2Ap7AQuzDzINQZmUr0ssjTmkE-NUK5bylXK8TEoGgsuBD3GRoFRmMacS~9FVqlMwpQiNyxfr3cpuN246yHtfvq449Idqsp9qPJhtPGAz03xyZyhTGfD4sK3E5iXVuzIOdGc-PionQvczt~qy6opm1ihRo7nIf~Ec1pNSUBHSvGlVdhHw~hfTqh73dx9Wzvjip2~i0b6iCf6Q74cDMWquQKqFDITnix8~1X~RnZm6IQMg6PnL1n0TDikz~6XYSezRTMA8IX~bCU9VPr8vHYrhFzOm2wvzhSh6ZVGv4Tb7I0ky5cCHyxwl86B0dM7lBJk-VbC0JGzYbAkg__",
+                "alt": "Project 1 description"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/a790/c723/3be06303006a8fbde2ea2e7666d34217?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fr4bH6CugCTBiefnKGGig33kT3rJIm6byLRJpmLC5uOAcQZrWzP63ZxUJEVSqp9GoJ4ALJ-J1ixCgGJ0fJGynx9OMbT0NgZnzSsFhmI1Nt5EcCkdr3km1GaHmH996iS4fvklpmgSAsTSaKD3~7dcERoWQEk24RLfi5jn5Br1ej4gZL3DvzC3d559wD0lmfxpGFe92kXErBfdKy2YdfTZsUAEpdy41yzGfN3o-630COtdlFYP7fbOZvyntidD85niVOcu0lIgSoJjsTFeZc2jZmrkUi3PIwBb3oInOjrFWrY3NSZYUVcAOyeX7b-wxeOmM-KkWqmJZtNa3rKHKLf1cA__",
+                "alt": "Project 2 description"
+            },
+            {
+                "url": "https://www.figma.com/file/ugFcPj2dwNNIW0qhVMl5Y4/image/e571c7aacb93fc03d3a417163fede0ac4d5ed698",
+                "alt": "Project 3 description"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/f396/d2e2/a73fd9a89e3958c883862a621dfad104?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MgWa0om0nl2Ap7AQuzDzINQZmUr0ssjTmkE-NUK5bylXK8TEoGgsuBD3GRoFRmMacS~9FVqlMwpQiNyxfr3cpuN246yHtfvq449Idqsp9qPJhtPGAz03xyZyhTGfD4sK3E5iXVuzIOdGc-PionQvczt~qy6opm1ihRo7nIf~Ec1pNSUBHSvGlVdhHw~hfTqh73dx9Wzvjip2~i0b6iCf6Q74cDMWquQKqFDITnix8~1X~RnZm6IQMg6PnL1n0TDikz~6XYSezRTMA8IX~bCU9VPr8vHYrhFzOm2wvzhSh6ZVGv4Tb7I0ky5cCHyxwl86B0dM7lBJk-VbC0JGzYbAkg__",
+                "alt": "Project 4 description"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/a790/c723/3be06303006a8fbde2ea2e7666d34217?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fr4bH6CugCTBiefnKGGig33kT3rJIm6byLRJpmLC5uOAcQZrWzP63ZxUJEVSqp9GoJ4ALJ-J1ixCgGJ0fJGynx9OMbT0NgZnzSsFhmI1Nt5EcCkdr3km1GaHmH996iS4fvklpmgSAsTSaKD3~7dcERoWQEk24RLfi5jn5Br1ej4gZL3DvzC3d559wD0lmfxpGFe92kXErBfdKy2YdfTZsUAEpdy41yzGfN3o-630COtdlFYP7fbOZvyntidD85niVOcu0lIgSoJjsTFeZc2jZmrkUi3PIwBb3oInOjrFWrY3NSZYUVcAOyeX7b-wxeOmM-KkWqmJZtNa3rKHKLf1cA__",
+                "alt": "Project 5 description"
+            },
+            {
+                "url": "https://www.figma.com/file/ugFcPj2dwNNIW0qhVMl5Y4/image/e571c7aacb93fc03d3a417163fede0ac4d5ed698",
+                "alt": "Project 6 description"
+            }
+        ]
     },
     {
         "name": "Bruno Sampayo",
@@ -69,6 +199,32 @@
             "linkedinUrl": "https://www.linkedin.com/in/bruno-sampayo-mello/",
             "instagramUrl": "https://www.instagram.com/bruno_sampayo/",
             "facebookUrl": "https://www.facebook.com/bruno.mello.900/"
-        }
+        },
+        "projects": [
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/f396/d2e2/a73fd9a89e3958c883862a621dfad104?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MgWa0om0nl2Ap7AQuzDzINQZmUr0ssjTmkE-NUK5bylXK8TEoGgsuBD3GRoFRmMacS~9FVqlMwpQiNyxfr3cpuN246yHtfvq449Idqsp9qPJhtPGAz03xyZyhTGfD4sK3E5iXVuzIOdGc-PionQvczt~qy6opm1ihRo7nIf~Ec1pNSUBHSvGlVdhHw~hfTqh73dx9Wzvjip2~i0b6iCf6Q74cDMWquQKqFDITnix8~1X~RnZm6IQMg6PnL1n0TDikz~6XYSezRTMA8IX~bCU9VPr8vHYrhFzOm2wvzhSh6ZVGv4Tb7I0ky5cCHyxwl86B0dM7lBJk-VbC0JGzYbAkg__",
+                "alt": "Project 1 description"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/a790/c723/3be06303006a8fbde2ea2e7666d34217?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fr4bH6CugCTBiefnKGGig33kT3rJIm6byLRJpmLC5uOAcQZrWzP63ZxUJEVSqp9GoJ4ALJ-J1ixCgGJ0fJGynx9OMbT0NgZnzSsFhmI1Nt5EcCkdr3km1GaHmH996iS4fvklpmgSAsTSaKD3~7dcERoWQEk24RLfi5jn5Br1ej4gZL3DvzC3d559wD0lmfxpGFe92kXErBfdKy2YdfTZsUAEpdy41yzGfN3o-630COtdlFYP7fbOZvyntidD85niVOcu0lIgSoJjsTFeZc2jZmrkUi3PIwBb3oInOjrFWrY3NSZYUVcAOyeX7b-wxeOmM-KkWqmJZtNa3rKHKLf1cA__",
+                "alt": "Project 2 description"
+            },
+            {
+                "url": "https://www.figma.com/file/ugFcPj2dwNNIW0qhVMl5Y4/image/e571c7aacb93fc03d3a417163fede0ac4d5ed698",
+                "alt": "Project 3 description"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/f396/d2e2/a73fd9a89e3958c883862a621dfad104?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=MgWa0om0nl2Ap7AQuzDzINQZmUr0ssjTmkE-NUK5bylXK8TEoGgsuBD3GRoFRmMacS~9FVqlMwpQiNyxfr3cpuN246yHtfvq449Idqsp9qPJhtPGAz03xyZyhTGfD4sK3E5iXVuzIOdGc-PionQvczt~qy6opm1ihRo7nIf~Ec1pNSUBHSvGlVdhHw~hfTqh73dx9Wzvjip2~i0b6iCf6Q74cDMWquQKqFDITnix8~1X~RnZm6IQMg6PnL1n0TDikz~6XYSezRTMA8IX~bCU9VPr8vHYrhFzOm2wvzhSh6ZVGv4Tb7I0ky5cCHyxwl86B0dM7lBJk-VbC0JGzYbAkg__",
+                "alt": "Project 4 description"
+            },
+            {
+                "url": "https://s3-alpha-sig.figma.com/img/a790/c723/3be06303006a8fbde2ea2e7666d34217?Expires=1717372800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=fr4bH6CugCTBiefnKGGig33kT3rJIm6byLRJpmLC5uOAcQZrWzP63ZxUJEVSqp9GoJ4ALJ-J1ixCgGJ0fJGynx9OMbT0NgZnzSsFhmI1Nt5EcCkdr3km1GaHmH996iS4fvklpmgSAsTSaKD3~7dcERoWQEk24RLfi5jn5Br1ej4gZL3DvzC3d559wD0lmfxpGFe92kXErBfdKy2YdfTZsUAEpdy41yzGfN3o-630COtdlFYP7fbOZvyntidD85niVOcu0lIgSoJjsTFeZc2jZmrkUi3PIwBb3oInOjrFWrY3NSZYUVcAOyeX7b-wxeOmM-KkWqmJZtNa3rKHKLf1cA__",
+                "alt": "Project 5 description"
+            },
+            {
+                "url": "https://www.figma.com/file/ugFcPj2dwNNIW0qhVMl5Y4/image/e571c7aacb93fc03d3a417163fede0ac4d5ed698",
+                "alt": "Project 6 description"
+            }
+        ]
     }
 ]
