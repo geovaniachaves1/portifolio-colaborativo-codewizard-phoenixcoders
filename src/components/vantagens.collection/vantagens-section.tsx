@@ -6,33 +6,35 @@ import { AiOutlineSelect } from "react-icons/ai";
 
 const Advantage = ({ title, description, Icon }) => {
   return (
-    <div className="bg-dark-color-secondary flex flex-col md:flex-row rounded-lg min-h">
-      <div className="md:w-80 h-auto gap-8 p-6 text-center md:text-left">
-        <div className="flex items-center gap-4">
-          <Icon className="text-lime-primary w-6 h-6 text-xl ml-4" />
-          <p className="border-light-color font-mulish -text-lg gap-1.5 font-bold -ml-2">{title}</p>
-        </div>
-        <p className="border-light-color text-sm font-Mulish pt-4 ml-5 text-left">{description}</p>
+    <div className="bg-dark-color-secondary flex flex-col md:flex-row rounded-lg p-4 md:p-6">
+    <div className="md:w-80 flex items-start gap-4">
+          <Icon className="text-lime-primary w-32 h-10 " />
+      <div>
+        <p className="text-light-color font-mulish text-lg font-bold">{title}</p>
+        <p className="text-light-color text-sm font-mulish pt-2">{description}</p>
       </div>
     </div>
-  );
+  </div>
+);
 };
-
+          
 const Vantagens = () => {
   return (
-    <section className="mx-auto py-8 py-5 sm:ml-24 md:mx-24 lg:mx-8 p">
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-3 mt-8 mx-4">
-        <div className="bg-dark-color p-4 flex">
-          <div className="text-left">
-            <h2 className="font-inconsolata text-3xl md:text-2xl lg:text-3xl font-extrabold leading-8 md:leading-9 lg:leading-10 gap: 16px;">
+    <section className="container mx-auto py-8 px-4 sm:px-6 lg:px-8">
+      <div className="grid grid-cols-1 md:grid-cols-2 
+        lg:grid-cols-3 gap-4 mt-6">
+        <div className="bg-dark-color p-4 flex flex-col sm:flex-row sm:justify-between sm:items-center">
+          <div>
+            <h2 className="font-inconsolata text-2xl md:text-3xl font-extrabold leading-snug text-left">
               Vantagens do <br /> projeto
             </h2>
             <div className="w-full md:w-300 border-t-2 border-dark-color mt-7"></div>
-            <p className="font-mulish text-sx md:text-lg lg:text-sx leading-6 md:leading-5 lg:leading-6 pt-">
+            <p className="font-mulish text-base md:text-lg leading-relaxed text-left">
               Participar de um projeto em grupo para aprender programação web frontend e desenvolver um portfólio colaborativo oferece uma série de vantagens!
             </p>
           </div>
           </div>
+          
         <Advantage
           title="Diversidade de habilidades:"
           description="Ao trabalhar em equipe, você pode aprender com os
